@@ -1,1 +1,2 @@
-# laion_aesthetics_audit_data
+# LAION Aesthetics-Predictor Audit Data
+[TODO: Explain Datsets]
